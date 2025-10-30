@@ -275,3 +275,6 @@ This project demonstrates how modern tools can make full-stack development reall
 The whole thing - from database to API to UI - works together seamlessly, and adding new features is straightforward because the architecture is clean and well-organized.
 <img width="2471" height="1391" alt="image" src="https://github.com/user-attachments/assets/37641bcd-5f09-4656-ae62-670c34bcaad4" />
 
+<img width="2421" height="1363" alt="image" src="https://github.com/user-attachments/assets/66842d76-1b70-4c4a-818f-5ff6d2775ebb" />
+
+
