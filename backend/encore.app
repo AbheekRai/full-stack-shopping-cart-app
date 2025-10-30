@@ -1,0 +1,1 @@
+{"id": "full-stack-shopping-cart-app-vzzi", "lang": "typescript"}
