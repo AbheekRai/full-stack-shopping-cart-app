@@ -273,3 +273,5 @@ A few things worth mentioning:
 This project demonstrates how modern tools can make full-stack development really enjoyable. The combination of Encore.ts for the backend and React for the frontend creates a development workflow that's both productive and type-safe.
 
 The whole thing - from database to API to UI - works together seamlessly, and adding new features is straightforward because the architecture is clean and well-organized.
+<img width="2471" height="1391" alt="image" src="https://github.com/user-attachments/assets/37641bcd-5f09-4656-ae62-670c34bcaad4" />
+
